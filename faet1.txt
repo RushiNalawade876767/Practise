@@ -8,4 +8,4 @@ this feature file
 
 4th feature added
 
-feature added for conflict in local
+feature added for confliclt from local
