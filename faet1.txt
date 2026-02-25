@@ -7,3 +7,5 @@ this feature file
 3rd feature added
 
 4th feature added
+
+feature added for conflict in local
